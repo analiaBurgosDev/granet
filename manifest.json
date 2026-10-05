@@ -1,0 +1,16 @@
+{
+  "short_name": "Granet",
+  "name": "Sistema de Monitoreo",
+  "icons": [
+    {
+      "src": "./granet_blanco.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2E7D32",
+  "display": "standalone",
+  "orientation": "portrait"
+}
